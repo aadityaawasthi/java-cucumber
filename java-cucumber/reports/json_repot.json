@@ -1,0 +1,52 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 61188893514,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on Home Page of \"http://google.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://google.com",
+                  "offset": 22
+                }
+              ],
+              "location": "Contact_Form.i_am_on_Home_Page_of(String)"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "Contact_Form.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tag"
+      }
+    ]
+  }
+]

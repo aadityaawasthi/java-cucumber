@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="regression">
+	<test name="window">
+		<classes>
+			<class name="testRunner.Runner">
+			</class>
+		</classes>
+	</test>
+</suite>
